@@ -30,6 +30,7 @@ Project Requirements
     README on how the user should set one up
 
     Build a custom data dictionary and include it either in your README or as a separate document. 
+        merged_data.csv
 
 5. Interpretation of your data. 
     Annotate your code with markdown cells in Jupyter Notebook, write clear code comments, 
@@ -37,4 +38,4 @@ Project Requirements
     have any empty cells or incomplete cells that don’t do anything. 
     Make sure it’s all functional before your final github commit.
 
-    
+
