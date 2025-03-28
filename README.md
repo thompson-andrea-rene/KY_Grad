@@ -39,3 +39,10 @@ Project Requirements
     Make sure it’s all functional before your final github commit.
 
 
+
+Set up
+Clone repo to local machine
+Create Virtual Machine from GitBash (python -m venv venv) or from Mac (python3 -m venv venv)
+Activate from GitBash (source venv/Scripts/activate) or from Mac (source venv/bin/activate)
+Install requirements from GitBash or Mac(pip install -r requirements.txt) 
+Deactivate after finished from GitBash or Mac (deactivate)
